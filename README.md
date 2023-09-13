@@ -5,7 +5,7 @@ Downloaded Files include:
   - Python Kafka Producer
   - Python Kafka Consumer
   - .ini files to connect to the primary and secondary/DR datacenter
-  - The Workshop Manual
+  - The Workshop Manual (PDF and MS Word Doc format)
 
 
 
