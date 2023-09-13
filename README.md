@@ -8,4 +8,4 @@ Downloaded Files include:
   - The Workshop Manual (PDF and MS Word Doc format)
 
 
-
+If there are any issues or questions contact ctechter@confluent.io
