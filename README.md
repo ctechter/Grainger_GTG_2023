@@ -4,7 +4,7 @@ To download the Lab Files for the Grainger 2023 GTG - Confluent Cloud workshop:
 Downloaded Files include:
   - Python Kafka Producer
   - Python Kafka Consumer
-  - .ini files to connect to the primary and secondary/DR datacenter
+  - .ini files to connect to the primary and secondary/DR cluster
   - The Workshop Manual (PDF and MS Word Doc format)
 
 
